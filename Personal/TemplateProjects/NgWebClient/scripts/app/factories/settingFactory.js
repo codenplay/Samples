@@ -1,7 +1,7 @@
 ﻿app.factory('setting', function() {
-    var baseUrl = '';
+    var baseUrl = '/api/';
 
     return {
-        mapUrl: baseUrl + '/Data.json'
+        mapUrl: baseUrl + 'Student'
     };
 });
