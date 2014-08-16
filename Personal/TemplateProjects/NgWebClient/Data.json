@@ -1,0 +1,7 @@
+﻿{
+    "IsSuccess": true,
+    "Data": [
+        { "Id": "1", "Name":"Mr. Fox", "Address":"Near river","Phone":"123"},
+		{ "Id": "2", "Name":"Mr. Croc", "Address":"In the river","Phone":"456"}
+    ]
+}
